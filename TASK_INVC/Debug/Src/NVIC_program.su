@@ -1,0 +1,7 @@
+NVIC_program.c:15:6:NVIC_u8EnableInterrupt	24	static
+NVIC_program.c:23:6:NVIC_u8DisableInterrupt	24	static
+NVIC_program.c:32:6:NVIC_u8u8Setpending	24	static
+NVIC_program.c:40:6:NVIC_u8u8Clearpending	24	static
+NVIC_program.c:47:4:NVIC_u8InterruptActive	24	static
+NVIC_program.c:171:4:SCB_u8InitPriortyField	24	static
+NVIC_program.c:184:6:NVIC_u8Setpriorty	16	static
