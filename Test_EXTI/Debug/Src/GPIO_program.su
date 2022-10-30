@@ -1,0 +1,6 @@
+GPIO_program.c:18:6:GPIO_voidInit	24	static
+GPIO_program.c:129:6:GPIO_u8SetPinValue	24	static
+GPIO_program.c:181:6:GPIO_u8GetPinValue	24	static
+GPIO_program.c:206:4:GPIO_u8Setport	24	static
+GPIO_program.c:232:6:GPIO_u8GetPORT	24	static
+GPIO_program.c:258:6:GPIO_u8TogPin	24	static
