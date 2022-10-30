@@ -1,0 +1,3 @@
+CLK_program.c:15:6:RCC_voidInit	4	static
+CLK_program.c:27:4:RCC_u8EnPripheral	24	static
+CLK_program.c:51:4:RCC_u8DisablePripheral	24	static

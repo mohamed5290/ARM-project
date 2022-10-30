@@ -1,0 +1,4 @@
+main.c:28:4:NVIC_u8EnableInterrupt	24	static
+main.c:37:4:NVIC_u8u8Setpending	24	static
+main.c:44:6:EXTI0_IRQHandler	16	static
+main.c:50:5:main	8	static
